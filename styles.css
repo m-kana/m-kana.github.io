@@ -1,0 +1,41 @@
+body {
+  background-image: url("res/bg-dark.png");
+  background-repeat: repeat;
+  width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+* {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 9pt;
+    color: #ffffffd0;
+}
+  
+p {
+  margin: 0.0em;
+  color: #ffffffa0;
+}
+
+h6 {
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  margin-left: 0em;
+  color: #fffffff0;
+  font-weight: bold;
+}
+
+a {
+  margin: 0;
+  color: #ffffffa0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eb5c5c;
+}
+
+p:hover {
+  color: #eb5c5c;
+}
+  
